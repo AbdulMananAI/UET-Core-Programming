@@ -1,7 +1,0 @@
-set_property SRC_FILE_INFO {cfile:{U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/LAB 1/project_1_lab1_vivado/project_1_lab1_vivado.srcs/constrs_1/new/syn_andgate_viv_lab_1.xdc} rfile:../../../project_1_lab1_vivado.srcs/constrs_1/new/syn_andgate_viv_lab_1.xdc id:1} [current_design]
-set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
-set_property PACKAGE_PIN M17 [get_ports A]
-set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]
-set_property PACKAGE_PIN L16 [get_ports B]
-set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
-set_property PACKAGE_PIN J15 [get_ports Y]

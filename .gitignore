@@ -1,0 +1,20 @@
+# Vivado and Questa Simulation Files
+*.jou
+*.log
+*.vdi
+*.rpt
+*.pb
+*.wdb
+.Xil/
+work/
+_info
+_vmake
+
+# Python
+__pycache__/
+*.pyc
+
+# C++
+*.exe
+*.o
+*.obj
