@@ -1,0 +1,76 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dM:/DLD_softwares/QUESTA/questasim64_2024.1/examples
+T_opt
+!s110 1771322601
+VLRkZUIhUcfU8RmF^EfQQ`3
+04 11 4 work and_gate_tb fast 0
+=1-700894bcb8dd-69943ce7-3b6-cf0
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2024.1;79
+vand_gate
+2U:\GITHUB projects\UET-Core-Programming\Semester_03\DLD_LAB\LAB 1\src\and_gate.sv
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1771322565
+!i10b 1
+!s100 VGPPBWX@Y[da_LUY5<Gba0
+IMQJGY[Kgf4lWE0M4FEcPZ0
+S1
+Z4 dU:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/LAB 1
+w1771322554
+8U:\GITHUB projects\UET-Core-Programming\Semester_03\DLD_LAB\LAB 1\src\and_gate.sv
+FU:\GITHUB projects\UET-Core-Programming\Semester_03\DLD_LAB\LAB 1\src\and_gate.sv
+!i122 2
+L0 1 10
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z7 !s108 1771322565.000000
+!s107 U:\GITHUB projects\UET-Core-Programming\Semester_03\DLD_LAB\LAB 1\src\and_gate.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|U:\GITHUB projects\UET-Core-Programming\Semester_03\DLD_LAB\LAB 1\src\and_gate.sv|
+!i113 0
+Z8 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vand_gate_tb
+2U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/LAB 1/sim/and_gate_tb.sv
+R2
+R3
+!i10b 1
+!s100 4BJzgCULZO`Oo9O`j7XCC3
+IB<Dm_<Za0WnaoSI>7WQA31
+S1
+R4
+w1771322484
+8U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/LAB 1/sim/and_gate_tb.sv
+FU:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/LAB 1/sim/and_gate_tb.sv
+!i122 1
+L0 1 32
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/LAB 1/sim/and_gate_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/LAB 1/sim/and_gate_tb.sv|
+!i113 0
+R8
+R1

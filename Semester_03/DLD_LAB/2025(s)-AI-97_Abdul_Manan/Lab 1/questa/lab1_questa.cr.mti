@@ -1,0 +1,15 @@
+{U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/LAB 1/sim/and_gate_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/LAB 1/sim/and_gate_tb.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module and_gate_tb
+
+Top level modules:
+	and_gate_tb
+
+} {} {}} {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/LAB 1/src/and_gate.sv} {1 {vlog -work work -vopt -sv -stats=none {U:\GITHUB projects\UET-Core-Programming\Semester_03\DLD_LAB\LAB 1\src\and_gate.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module and_gate
+
+Top level modules:
+	and_gate
+
+} {} {}}

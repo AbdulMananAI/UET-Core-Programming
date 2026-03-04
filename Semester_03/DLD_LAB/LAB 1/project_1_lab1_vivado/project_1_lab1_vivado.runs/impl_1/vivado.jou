@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Feb 24 12:56:46 2026
+# Process ID: 9736
+# Current directory: U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/LAB 1/project_1_lab1_vivado/project_1_lab1_vivado.runs/impl_1
+# Command line: vivado.exe -log and_gate.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source and_gate.tcl -notrace
+# Log file: U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/LAB 1/project_1_lab1_vivado/project_1_lab1_vivado.runs/impl_1/and_gate.vdi
+# Journal file: U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/LAB 1/project_1_lab1_vivado/project_1_lab1_vivado.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source and_gate.tcl -notrace
