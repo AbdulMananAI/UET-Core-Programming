@@ -1,0 +1,15 @@
+{C:/Users/User/Desktop/Eval-I sv codes/sub_4bit_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/User/Desktop/Eval-I sv codes/sub_4bit_tb.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module sub_4bit_tb
+
+Top level modules:
+	sub_4bit_tb
+
+} {} {}} {C:/Users/User/Desktop/Eval-I sv codes/sub_4bit.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/User/Desktop/Eval-I sv codes/sub_4bit.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module sub_4bit
+
+Top level modules:
+	sub_4bit
+
+} {} {}}

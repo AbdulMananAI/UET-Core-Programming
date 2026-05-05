@@ -4,7 +4,7 @@ using namespace std;
 // 1. Define the Node
 struct Node {
     int data;
-    Node* next;
+    Node* next;  // here Node is a pointer to the next node in the list and next is variable of type Node* (pointer to Node)
 };
 
 // A function to print the linked list
@@ -25,7 +25,7 @@ int main() {
     Node* fourth = nullptr;
 
     // 3. Allocate memory for the nodes in the heap using 'new'
-    head = new Node();
+    head = new Node(); //here head is 
     second = new Node();
     third = new Node();
     fourth = new Node();

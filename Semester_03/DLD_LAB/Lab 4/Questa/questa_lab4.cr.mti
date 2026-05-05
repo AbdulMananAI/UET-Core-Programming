@@ -1,0 +1,15 @@
+{U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/Lab 4/sim/Binary_to_BCD_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/Lab 4/sim/Binary_to_BCD_tb.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module Binary_to_BCD_tb
+
+Top level modules:
+	Binary_to_BCD_tb
+
+} {} {}} {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/Lab 4/src/Binary_to_BCD.sv} {1 {vlog -work work -vopt -sv -stats=none {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/Lab 4/src/Binary_to_BCD.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module Binary_to_BCD
+
+Top level modules:
+	Binary_to_BCD
+
+} {} {}}

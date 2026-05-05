@@ -1,0 +1,71 @@
+{U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/decoder.sv} {1 {vlog -work work -vopt -sv -stats=none {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/decoder.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module decoder
+
+Top level modules:
+	decoder
+
+} {} {}} {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/decoder_1.sv} {1 {vlog -work work -vopt -sv -stats=none {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/decoder_1.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module decoder_1
+
+Top level modules:
+	decoder_1
+
+} {} {}} {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/full_adder.sv} {1 {vlog -work work -vopt -sv -stats=none {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/full_adder.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/top_lab5.sv} {1 {vlog -work work -vopt -sv -stats=none {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/top_lab5.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module top_lab5
+
+Top level modules:
+	top_lab5
+
+} {} {}} {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SIM/multiplier_c3_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SIM/multiplier_c3_tb.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module multiplier_c3_tb
+
+Top level modules:
+	multiplier_c3_tb
+
+} {} {}} {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/decoder_2.sv} {1 {vlog -work work -vopt -sv -stats=none {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/decoder_2.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module decoder_2
+
+Top level modules:
+	decoder_2
+
+} {} {}} {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/log_shifter_4bit.sv} {1 {vlog -work work -vopt -sv -stats=none {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/log_shifter_4bit.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module log_shifter_4bit
+
+Top level modules:
+	log_shifter_4bit
+
+} {} {}} {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/multiplier_c3.sv} {1 {vlog -work work -vopt -sv -stats=none {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/multiplier_c3.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module multiplier_c3
+
+Top level modules:
+	multiplier_c3
+
+} {} {}} {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/mux2to1.sv} {1 {vlog -work work -vopt -sv -stats=none {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/mux2to1.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/rca_4bit.sv} {1 {vlog -work work -vopt -sv -stats=none {U:/GITHUB projects/UET-Core-Programming/Semester_03/DLD_LAB/lab_5/SRC/rca_4bit.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module rca_4bit
+
+Top level modules:
+	rca_4bit
+
+} {} {}}
